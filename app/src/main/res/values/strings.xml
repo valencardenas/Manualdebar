@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Manual de bar</string>
+    <string name="list_Title">Lista de poductos</string>
+    <string name="menuOp1_title">Filtrar</string>
+    <string name="menuOp2_title">Buscar</string>
+    <string name="menuOp3_title">Info</string>
+    <string name="ingredients_title">\nIngredientes</string>
+    <string name="recomendation_title">Recomedacion</string>
+    <string name="receip_title">\nPreparacion</string>
+</resources>
