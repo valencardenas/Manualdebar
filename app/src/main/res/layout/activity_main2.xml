@@ -41,7 +41,7 @@
                 android:scaleType="center"
                 android:layout_below="@+id/TextView2"
                 android:layout_centerHorizontal="true"
-                android:background="@color/common_action_bar_splitter"
+                android:background="@color/blue"
                 android:layout_gravity="center_horizontal" />
 
             <TextView
